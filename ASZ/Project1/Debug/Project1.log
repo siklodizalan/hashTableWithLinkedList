@@ -1,0 +1,8 @@
+﻿  hasito_tabla_listaval_main.cpp
+D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\hasito_tabla_listaval.tpp(250,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\hasito_tabla_listaval_main.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\hasito_tabla_listaval_main.cpp(108,21): warning C4018: '<': signed/unsigned mismatch
+D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\hasito_tabla_listaval_main.cpp(125,22): warning C4018: '<': signed/unsigned mismatch
+D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\hasito_tabla_listaval_main.cpp(143,22): warning C4018: '<': signed/unsigned mismatch
+D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\hasito_tabla_listaval_main.cpp(155,22): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Info\University\2.félév\1. Adatszerkezetek\Siklódi_Zalán_hasító_tábla_listával\ASZ\Project1\Debug\Project1.exe
